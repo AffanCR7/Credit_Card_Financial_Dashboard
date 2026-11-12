@@ -42,13 +42,12 @@ Credit-Card-Financial-Dashboard/
 │   └── Credit_Card_Financial_Dashboard.pbix
 │
 ├── Screenshots/
-│   ├── Credit_Card_Transaction_Report.png
-│   └── Credit_Card_Customer_Report.png
+│   ├── credit_card_transaction_report.pdf
+│   └── credit_card_customer_report.pdf
 │
 └── README.md
-```
 
-*Note: Update the folder and file names according to your actual GitHub repository.*
+
 
 ## 📊 Dashboard Features
 
